@@ -1,6 +1,8 @@
 # Sentiment analysis project
 
-This repository contains code and associated files for building and deploying a sentiment analysis classifier as a web app using AWS SageMaker. This project was submitted in partial fulfillment of the requirements for the Udacity Machine Learning Nanodegree.
+This repository contains a notebook and Python files that build up a simple web app which interacts with a deployed recurrent neural network (RNN) performing sentiment analysis on movie reviews using AWS SageMaker.
+
+This project was submitted in partial fulfillment of the requirements for the Udacity Machine Learning Nanodegree.
 
 
 **1. Jupyter notebook:**
